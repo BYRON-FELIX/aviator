@@ -1,0 +1,10 @@
+.env
+backend/.env
+node_modules/
+.env.*
+!.env.*.example
+!.env.example
+dist/
+*.log
+*.pem
+*.key
